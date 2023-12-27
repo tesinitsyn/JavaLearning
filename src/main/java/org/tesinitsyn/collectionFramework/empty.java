@@ -1,2 +1,4 @@
-package org.tesinitsyn.collectionFramework;public class empty {
+package org.tesinitsyn.collectionFramework;
+
+public class empty {
 }
